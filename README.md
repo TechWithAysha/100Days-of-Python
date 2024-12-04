@@ -1,2 +1,2 @@
-# TechWithAysha1
+# 100 Days-of-Python
 1
